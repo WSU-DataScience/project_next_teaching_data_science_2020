@@ -9,8 +9,9 @@ Slide link: https://bit.ly/31cNWRR
 Data Verb Content
  - Data Verb: Activity: www.statsclass.org/dsci210/Dataverbs/ 
 
+
 Data Viz Content
-	Zoom Poll:
+  - Zoom Poll:
 		1. Who has the most votes?
 			Candidate 1 - 5 (5 is winner)
 		2. Who is in third place?
@@ -25,9 +26,12 @@ Data Viz Content
 	HIV Diagnosis Redo: www.statsclass.org/dsci310/HIVDiagnosis_WI_Redo.png
 
 	Backup: https://sketchpad.app/en/
-	
 
-3. Classification Tree Activity: www.statsclass.org/dsci210/CART/train.html 
+CART Content	
+
+ - Classification Tree Activity: www.statsclass.org/dsci210/CART/train.html 
 
 
+Evaluation
 
+ - Google Review:  https://forms.gle/AhfSEUV3nkVmxJM57
