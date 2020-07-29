@@ -1,0 +1,33 @@
+Project NExT Minicourse Links
+
+Github: https://github.com/WSU-DataScience/project_next_teaching_data_science_2020
+Github: https://bit.ly/2DdolzR
+
+Slide link: https://bit.ly/31cNWRR
+
+
+Data Verb Content
+ - Data Verb: Activity: www.statsclass.org/dsci210/Dataverbs/ 
+
+Data Viz Content
+	Zoom Poll:
+		1. Who has the most votes?
+			Candidate 1 - 5 (5 is winner)
+		2. Who is in third place?
+			Candidate 1 -5 (3 is winner)
+
+ - Data Viz Activity: 
+		Group 1 https://bit.ly/2P7LAxG
+		Group 2 https://bit.ly/336Ggms
+		Group 3 https://bit.ly/2P2oVD0
+	
+	HIV Diagnosis Original: www.statsclass.org/dsci310/HIVDiagnosis_WI_Original.png
+	HIV Diagnosis Redo: www.statsclass.org/dsci310/HIVDiagnosis_WI_Redo.png
+
+	Backup: https://sketchpad.app/en/
+	
+
+3. Classification Tree Activity: www.statsclass.org/dsci210/CART/train.html 
+
+
+
